@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
     <link href="{{asset('backend/img/logo/logo.png')}}" rel="icon">
-    <title>Fahmin Shamilli - Dashboard</title>
+    <title>Fahmin Shamilli  - Dashboard</title>
     <link href="{{asset('backend/vendor/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">
     <link href="{{asset('backend/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css">
     <link href="{{asset('backend/css/ruang-admin.min.css')}}" rel="stylesheet">
@@ -26,7 +26,7 @@
             <div class="sidebar-brand-icon">
                 <img src="{{asset('backend/img/logo/logo2.png')}}">
             </div>
-            <div class="sidebar-brand-text mx-3">Easy Inventory</div>
+            <div class="sidebar-brand-text mx-3">Inventory</div>
         </router-link>
         <hr class="sidebar-divider my-0">
         <li class="nav-item bg-info">
