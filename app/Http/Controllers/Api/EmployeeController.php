@@ -17,6 +17,7 @@ class EmployeeController extends Controller
      */
     public function index()
     {
+        /* İşçiləri blade-ə göndəririk */
         $employee = Employee::all();
         return response()->json($employee);
     }
